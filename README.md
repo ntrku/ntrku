@@ -1,4 +1,8 @@
-## Hi there 👋
+## ntr资源库 👋
+
+<https://www.ntrku.com>
+
+<https://ntrku.github.io>
 
 <!--
 **ntrku/ntrku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
